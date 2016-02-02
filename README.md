@@ -7,11 +7,11 @@ Get started by running 'npm install' from command line to install dependencies.
 RUN:
 
 Fetch current weather for cityName: 
-  $ node app.js -l {cityName} 
+  > node app.js -l {cityName} 
 
 No args will cause app to guess your location:
-  $ node app.js 
+  > node app.js 
 
 Get help: 
-  $ node app.js --help 
+  > node app.js --help 
 
