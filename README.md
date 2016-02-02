@@ -9,7 +9,7 @@ RUN:
 Fetch current weather for cityName: 
   $ node app.js -l {cityName} 
 
-No args will cause app to guess your location: 
+No args will cause app to guess your location:
   $ node app.js 
 
 Get help: 
