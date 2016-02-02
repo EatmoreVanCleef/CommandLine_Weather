@@ -6,7 +6,7 @@ var argv = require('yargs')
           location: {
             alias: 'l',
             demand: false,
-            description: 'city name -- wrap in "" if city name has a space (eg. "New York")',
+            description: 'City name. Wrap in "" for multi-word (eg. "New York")',
             type: 'string'
           }
         })
