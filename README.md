@@ -6,8 +6,8 @@ Get started by running 'npm install' from command line to install dependencies.
 
 RUN:
 
-  $ app.js -l {cityName}    // Fetch current weather for cityName 
+  $ app.js -l {cityName}      // Fetch current weather for cityName 
 
-  $ app.js     // No args will cause app to guess your location
+  $ app.js                    // No args will cause app to guess your location
 
-  $ app.js --help     // Get help 
+  $ app.js --help             // Get help 
